@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/stem-cell-milestones/static/css/main.0aa6ff4c.chunk.css",
-    "main.js": "/stem-cell-milestones/static/js/main.5ee5089c.chunk.js",
-    "main.js.map": "/stem-cell-milestones/static/js/main.5ee5089c.chunk.js.map",
-    "runtime-main.js": "/stem-cell-milestones/static/js/runtime-main.b5e17297.js",
-    "runtime-main.js.map": "/stem-cell-milestones/static/js/runtime-main.b5e17297.js.map",
-    "static/js/2.b3516b3b.chunk.js": "/stem-cell-milestones/static/js/2.b3516b3b.chunk.js",
-    "static/js/2.b3516b3b.chunk.js.map": "/stem-cell-milestones/static/js/2.b3516b3b.chunk.js.map",
+    "main.css": "/stem-cell-milestones/static/css/main.c0c90c11.css",
+    "main.js": "/stem-cell-milestones/static/js/main.2313b16e.js",
     "index.html": "/stem-cell-milestones/index.html",
-    "static/css/main.0aa6ff4c.chunk.css.map": "/stem-cell-milestones/static/css/main.0aa6ff4c.chunk.css.map",
-    "static/js/2.b3516b3b.chunk.js.LICENSE.txt": "/stem-cell-milestones/static/js/2.b3516b3b.chunk.js.LICENSE.txt"
+    "main.c0c90c11.css.map": "/stem-cell-milestones/static/css/main.c0c90c11.css.map",
+    "main.2313b16e.js.map": "/stem-cell-milestones/static/js/main.2313b16e.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5e17297.js",
-    "static/js/2.b3516b3b.chunk.js",
-    "static/css/main.0aa6ff4c.chunk.css",
-    "static/js/main.5ee5089c.chunk.js"
+    "static/css/main.c0c90c11.css",
+    "static/js/main.2313b16e.js"
   ]
 }
